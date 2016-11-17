@@ -1,0 +1,6 @@
+RUN: Instructions on how to run your code
+  python client2.py
+  
+BUGS:
+  Was not able to properly test the code for part 5 due to networking issues.
+  Cannot confirm if it works properly while other tests worked on my network.

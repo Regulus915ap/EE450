@@ -1,0 +1,6 @@
+RUN: Instructions on how to run your code
+% python server3.py
+% python client3.py
+
+BUGS:
+   No bugs were found.
